@@ -10,4 +10,4 @@ INSERT INTO comenzi VALUES (3, 'Subscriptie 1 luna', 99, 1);
 INSERT INTO categorii VALUES (1, 'Financiar');
 INSERT INTO categorii VALUES (2, 'Auto');
 INSERT INTO categorii VALUES (3, 'Tehnologie');
---UPDATE hibernate_sequence SET next_val = 4;
+--mysql only UPDATE hibernate_sequence SET next_val = 4;
